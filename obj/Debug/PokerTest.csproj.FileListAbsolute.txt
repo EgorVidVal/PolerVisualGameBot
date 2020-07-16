@@ -1,0 +1,10 @@
+C:\Users\Axelot\source\repos\PokerTest\obj\Debug\PokerTest.csprojAssemblyReference.cache
+C:\Users\Axelot\source\repos\PokerTest\obj\Debug\PokerTest.Form1.resources
+C:\Users\Axelot\source\repos\PokerTest\obj\Debug\PokerTest.Properties.Resources.resources
+C:\Users\Axelot\source\repos\PokerTest\obj\Debug\PokerTest.csproj.GenerateResource.cache
+C:\Users\Axelot\source\repos\PokerTest\obj\Debug\PokerTest.csproj.CoreCompileInputs.cache
+C:\Users\Axelot\source\repos\PokerTest\bin\Debug\PokerTest.exe.config
+C:\Users\Axelot\source\repos\PokerTest\bin\Debug\PokerTest.exe
+C:\Users\Axelot\source\repos\PokerTest\bin\Debug\PokerTest.pdb
+C:\Users\Axelot\source\repos\PokerTest\obj\Debug\PokerTest.exe
+C:\Users\Axelot\source\repos\PokerTest\obj\Debug\PokerTest.pdb
